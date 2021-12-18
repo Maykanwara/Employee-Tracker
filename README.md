@@ -1,51 +1,41 @@
 # Employee-Tracker
 
 ## Description
-​
-This is Note Taker showcasing my work.
+
+This is Employee Tracker showcasing my work including build a command-line application from scratch to manage a company's employee database by using Node.js , Inquirer and MySQL and the you should be able to view employees, departments, employee roles, add new employee , department  and roles.
 Feel free to view my work here.
 
+
 ## Languages
-- 
+- Node.js
+- Inquirer (npm utility)
+- MySQL database
 
 
-​
+
 ## Link to GitHub main project page
-​
-[Portfolio Project Page on GitHub](https://github.com/Maykanwara/Employee-Tracker)
-​                                   
-## Link to Deployed Application
-​
-[Live Depoyment Link]()
 
-​
+[Portfolio Project Page on GitHub](https://github.com/Maykanwara/Employee-Tracker)
+                             
+## Link to Deployed Application
+
+[Live Deployment Link](https://maykanwara.github.io/Employee-Tracker/)
+
+
 ## Screenshots of Finished Product
 
-​
-### Desktop Header
-​
-
-​
-### Desktop Work Section
-​
 
 
 
-​
-### Desktop Contact and Footer
-​
+
+### Link to Walkthrough Video
 
 
 
-​
-## Acknowledgements
-​
-
-​
 ## Contact Information
-​
-Github: ​[Maykanwara](https://github.com/Maykanwara)
-​
+
+Github: [Maykanwara](https://github.com/Maykanwara)
+
 Email: maykanwara@gmail.com
 
 
