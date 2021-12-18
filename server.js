@@ -38,7 +38,7 @@ function selectQuestion() {
                     manageDepartment();
                     break;
                 case 'View All Roles':
-                    manageRoles);
+                    manageRoles();
                     break;
                 case 'View All Departments':
                     manageEmployees();
@@ -66,7 +66,7 @@ function selectQuestion() {
 
 function manageDepartment() {
 
-    db.query(SELECT * FROM department order by id', (err, result) => {
+    db.query('SELECT * FROM department order by id', (err, result) => {
         if (err) {
             console.log(err)
         }
