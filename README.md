@@ -22,7 +22,7 @@ Feel free to view my work here.
 [Live Deployment Link](https://maykanwara.github.io/Employee-Tracker/)
 
 
-## Screenshots of Finished Product
+
 
 
 
@@ -30,7 +30,7 @@ Feel free to view my work here.
 
 ### Link to Walkthrough Video
 
-
+https://drive.google.com/file/d/1CnzrEhxu6FL5V5pbcJU-ZCzck4Omfc5t/view
 
 ## Contact Information
 
